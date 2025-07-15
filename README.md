@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=%20Hey%20There%20&textBg=true&desc=Thanks%20for%20dropping%20by!&descAlign=50&descAlignY=90&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=%20Hey%20There%20&textBg=true&desc=Thanks%20for%20dropping%20by!&descAlign=50&descAlignY=85&fontSize=90)
