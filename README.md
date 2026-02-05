@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=%20Nathan%20Pons&textBg=true&desc=&descAlign=50&descAlignY=85&fontSize=90)
 
-I'm a Software Engineer and Aerospace Enthusiast. I create Full stack applications that I think are interesting and, above all, useful. I'm committed to a life of learning and forever improving myself and my work.
+I'm a Software Engineer and Aerospace Enthusiast. I create Full stack applications that provide a foundation for interests, hobbies, and businesses to excel. I'm committed to a life of learning and forever improving myself and my work.
 
 <p align="center">
   <a href="https://nathanpons.com" target="_blank" rel="noopener noreferrer">
